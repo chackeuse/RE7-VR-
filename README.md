@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://github.com/chackeuse/RE7-VR-/releases/latest/download/ResidentEvil7VR-Setup.exe](https://github.com/chackeuse/RE7-VR-/releases#release-v0.1.0)"><b>Télécharger / Download</b></a>
-  · <a href="https://github.com/chackeuse/RE7-VR-/releases/latest">Notes de version / Release notes</a>
+  <a href="https://github.com/chackeuse/RE7-VR-/releases#release-v0.1.0"><b>Télécharger / Download</b></a>
 </p>
 
 <p align="center">
@@ -53,7 +52,7 @@ Testé avec un Meta Quest 3 connecté via Steam Link, sur la version Steam `2277
 
 ### Installation
 
-1. Téléchargez [`ResidentEvil7VR-Setup.exe`](https://github.com/chackeuse/RE7-VR-/releases/latest/download/ResidentEvil7VR-Setup.exe) (ou depuis la section [Releases](../../releases/latest)).
+1. Téléchargez [`ResidentEvil7VR-Setup.exe`](https://github.com/chackeuse/RE7-VR-/releases#release-v0.1.0).
 2. Lancez l'installateur. Si Windows affiche un avertissement, cliquez sur **Informations complémentaires**
    puis **Exécuter quand même** (l'exécutable n'est pas signé).
 3. Ouvrez l'application RE7 VR et cliquez sur **INSTALLER**.
@@ -151,7 +150,7 @@ Tested with a Meta Quest 3 connected through Steam Link, on Steam build `2277379
 
 ### Installation
 
-1. Download [`ResidentEvil7VR-Setup.exe`](https://github.com/chackeuse/RE7-VR-/releases/latest/download/ResidentEvil7VR-Setup.exe) (or from the [Releases](../../releases/latest) section).
+1. Download [`ResidentEvil7VR-Setup.exe`](https://github.com/chackeuse/RE7-VR-/releases#release-v0.1.0).
 2. Run the installer. If Windows shows a warning, click **More info** then **Run anyway**
    (the executable is not signed).
 3. Open the RE7 VR application and click **INSTALL**.
