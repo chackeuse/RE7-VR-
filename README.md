@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/chackeuse/RE7-VR-/releases/latest/download/ResidentEvil7VR-Setup.exe"><b>Télécharger / Download</b></a>
+  <a href="[https://github.com/chackeuse/RE7-VR-/releases/latest/download/ResidentEvil7VR-Setup.exe](https://github.com/chackeuse/RE7-VR-/releases#release-v0.1.0)"><b>Télécharger / Download</b></a>
   · <a href="https://github.com/chackeuse/RE7-VR-/releases/latest">Notes de version / Release notes</a>
 </p>
 
