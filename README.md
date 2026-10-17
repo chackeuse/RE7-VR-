@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/icon.png" alt="RE7 VR" width="120" />
+  <img src="icon.png" alt="RE7 VR" width="120" />
 </p>
 
 <h1 align="center">RE7 VR</h1>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/images/app-home.png" alt="Application RE7 VR" width="800" />
+  <img src="app-home.png" alt="Application RE7 VR" width="800" />
 </p>
 
 ---
@@ -208,4 +208,5 @@ This project is released under the [MIT license](LICENSE).
 
 Unofficial project, not affiliated with Capcom. *Resident Evil* is a trademark of Capcom Co., Ltd.
 No game files are included: a legitimate copy of Resident Evil 7 is required.
+
 
