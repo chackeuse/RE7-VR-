@@ -105,8 +105,6 @@ L'installateur est généré dans le dossier `dist`. La documentation technique 
 ### Crédits
 
 - Développement : **Chackeuse**
-- Mod VR : [REFramework](https://github.com/praydog/REFramework) par **praydog**
-- Les licences des composants tiers sont fournies dans `THIRD-PARTY-NOTICES.txt`.
 
 ### Licence
 
@@ -126,8 +124,6 @@ RE7 VR lets you play *Resident Evil 7: Biohazard* (Steam version) in virtual rea
 The project includes a Windows installer and an application that handles everything: it detects the game,
 installs the VR mod, launches the game and can remove everything cleanly.
 
-The VR part (headset rendering, head tracking, controllers) is based on
-[REFramework](https://github.com/praydog/REFramework), developed by praydog.
 
 ### Features
 
@@ -203,8 +199,6 @@ The installer is created in the `dist` folder. Technical documentation is in [`d
 ### Credits
 
 - Development: **Chackeuse**
-- VR mod: [REFramework](https://github.com/praydog/REFramework) by **praydog**
-- Third-party licenses are provided in `THIRD-PARTY-NOTICES.txt`.
 
 ### License
 
