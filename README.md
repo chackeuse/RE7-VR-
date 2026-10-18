@@ -91,16 +91,6 @@ Ouvrez une [issue](../../issues) en joignant :
 - le rapport créé avec **Diagnostic > Exporter le diagnostic** dans l'application ;
 - le fichier `re2_framework_log.txt` situé dans le dossier du jeu.
 
-### Compiler le projet
-
-Prérequis : SDK .NET 9, Visual Studio 2022 ou 2026 avec « Développement Desktop en C++ », Git.
-
-```
-git clone --recurse-submodules <url-du-dépôt>
-powershell -ExecutionPolicy Bypass -File scripts\build-installer.ps1
-```
-
-L'installateur est généré dans le dossier `dist`. La documentation technique se trouve dans [`docs`](docs/).
 
 ### Crédits
 
